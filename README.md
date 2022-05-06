@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution page on Frontend Mentor]()
-- Live Site URL: [Github Pages](https://rachmatilham.github.io/social-media-dashboard-with-theme-switcher-master/)
+- Solution URL: [Solution page on Frontend Mentor](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-rJ_oQoG8q)
+- Live Site URL: [Github Pages](https://rachmatilham.github.io/coding-bootcamp-testimonials-slider-master/)
 
 ## My process
 
